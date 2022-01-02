@@ -1,0 +1,2 @@
+como extraer info de una pagina dada una lista de links
+https://www.youtube.com/watch?v=y51UchmuiWU
