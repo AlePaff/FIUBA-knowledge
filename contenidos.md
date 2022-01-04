@@ -1,26 +1,24 @@
-#70.00 Tesis
+### 70.00 Tesis
 
 [link al pdf](https://cms.fi.uba.ar/uploads/7000_f3e5b5598f.pdf)
 
 
 OBJETIVOS
 CONTENIDOS MÍNIMOS
--
 PROGRAMA SINTÉTICO
 PROGRAMA ANALÍTICO
 
-#70.01 Geometría Proyectiva
+### 70.01 Geometría Proyectiva
 
 [link al pdf](https://cms.fi.uba.ar/uploads/7001_d6c8e9d00f.pdf)
 
 
 OBJETIVOS
 CONTENIDOS MÍNIMOS
--
 PROGRAMA SINTÉTICO
 PROGRAMA ANALÍTICO
 
-#70.02 Geometría Descriptiva
+### 70.02 Geometría Descriptiva
 
 [link al pdf](https://cms.fi.uba.ar/uploads/7002_64d783b823.pdf)
 
@@ -29,10 +27,8 @@ OBJETIVOS
 Representar sobre un plano formas tridimensionales reuniendo en una figura plana todos los elementos
 necesarios para hacer conocer la forma y posición en el espacio de un cuerpo de tres dimensiones.
 CONTENIDOS MÍNIMOS
--
 PROGRAMA SINTÉTICO
-1-Proyección central. 2-Perspectiva cónica. 3-Proyecciones acotadas. 4-Superficies topográficas. 5-
-Proyecciones diédricas (M.Monge) 6-Nociones sobre líneas y superficies.
+1-Proyección central. 2-Perspectiva cónica. 3-Proyecciones acotadas. 4-Superficies topográficas. 5Proyecciones diédricas (M.Monge) 6-Nociones sobre líneas y superficies.
 PROGRAMA ANALÍTICO
 CARRERA DE INGENIERÍA EN AGRIMENSURA(cid:13)
 (cid:13)
@@ -69,7 +65,7 @@ plana.(cid:13)
 (cid:13)
 7 - Nociones sobre líneas y superficies: curvas planas, curvas alabeadas, superficies en general.(cid:13)
 
-#70.03 Medios de Representación A
+### 70.03 Medios de Representación A
 
 [link al pdf](https://cms.fi.uba.ar/uploads/7003_b7b9d87b24.pdf)
 
@@ -114,7 +110,6 @@ Universal(cid:13)
 -Interpretar planos generales y de detalle(cid:13)
 -Familiarizarse con la corrección y archivo de Documentos Técnicos
 CONTENIDOS MÍNIMOS
--
 PROGRAMA SINTÉTICO
 Generaliddaes-Sistemas de proyección y Sistemas de Representación-Aplicación de la expresión Gráfica a la
 Ingeniería Civil-Método Monge-Proyecciones Acotadas-Perpsectivas-Figuras y Cuerpos-(cid:13)
@@ -209,7 +204,7 @@ Planos generales, de detalle, de estructuras, de instalaciones. Especialidad obr
 Especialidad construcciones metálicas: NI 4518, 4523, 4534, 4536.(cid:13)
 (cid:13)
 
-#70.04 Dibujo Topográfico
+### 70.04 Dibujo Topográfico
 
 [link al pdf](https://cms.fi.uba.ar/uploads/7004_334c8672cb.pdf)
 
@@ -223,7 +218,6 @@ la ejercitación del dibujo lineal, caligráfico y de simbología cartográfica,
 capacidad necesarias para la preparación de planos de mensura, y tener acceso a la vez. a la representación
 gráfica de la topografía y cartografía.
 CONTENIDOS MÍNIMOS
--
 PROGRAMA SINTÉTICO
 A-1) Materiales y útiles para el dibujo. Su utilización.(cid:13)
 A-2) Normas para el dibujo Técnico (I.R.A.M.).(cid:13)
