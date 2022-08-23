@@ -1,5 +1,6 @@
 # FIUBA-knowledge
-Recopilación de temas que se ven en cada materia
+Recopilación de temas que se ven en cada materia.
+Se puede buscar con Ctrl+F el nombre de una materia y los contenidos o algún tema de interes y ver donde se vé dicho tema
 
-* Se puede abrir el archivo [contenidos.md](https://github.com/AlePaff/FIUBA-knowledge/blob/main/contenidos.md) de forma raw y buscar apretando Ctrl+F algún tema de interes, y fijarse en que materia se vé dicho tema
+* Al ser tantos datos puede demorar un poco en cargar. 
 * Info obtenida de la pagina oficial https://www.fi.uba.ar/institucional/departamentos
