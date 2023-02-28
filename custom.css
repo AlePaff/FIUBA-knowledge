@@ -3,7 +3,7 @@
 }
 
 a{
-	color: #1b83d8;
+	color: #2d99f1;
 }
 
 body{
@@ -13,6 +13,10 @@ body{
 	padding: 20px;
 	margin-right: 20px;
 	margin-left: 20px;
+}
+
+#loader{
+	text-align:center;
 }
 
 
